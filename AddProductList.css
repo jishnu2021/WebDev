@@ -1,0 +1,35 @@
+/* AddProductList.css */
+.search-box{
+  width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.product-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  .product-table th,
+  .product-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .product-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .product-table tr:hover {
+    background-color: #f2f2f2;
+  }
+  
